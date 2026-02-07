@@ -186,7 +186,7 @@ This project is licensed under the MIT License - feel free to use it for learnin
 
 **Your Name**
 - GitHub: [@ramshawork](https://github.com/ramshawork)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/ramshaanwar-dev/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/ramshaanwar-dev/)
 
 ## Contact
 
